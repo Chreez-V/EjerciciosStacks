@@ -118,7 +118,7 @@ void MenuPilas()
 				}
 			case 7:
 				{
-					break;
+					exit(-1);
 				}
 			default: 
 			{
