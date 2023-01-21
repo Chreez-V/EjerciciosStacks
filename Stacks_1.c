@@ -116,6 +116,10 @@ void MenuPilas()
 					MenuAnimales();
 					break;
 				}
+			case 7:
+				{
+					break;
+				}
 			default: 
 			{
 				system("cls");
@@ -342,4 +346,4 @@ void ImprimirAnimales()
 	MenuAnimales();
 }
 
-/* Creado por Christian Vasquez (30.452.958) y Edian*/
+/* Creado por Christian Vasquez (30.452.958) y Edian Sánchez (30.212.255)*/
